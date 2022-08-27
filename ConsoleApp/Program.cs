@@ -40,6 +40,7 @@ do
     // Par
     if ((index % 2) == 0)
     {
+        Console.WriteLine(" ");
         Console.Write(player1.Name + " Pulsa enter para tirar");
         Console.ReadLine();
 
@@ -51,6 +52,7 @@ do
     }
     else
     {
+        Console.WriteLine(" ");
         Console.Write(player2.Name + " Pulsa enter para tirar");
         Console.WriteLine(" ");
         Console.ReadLine();

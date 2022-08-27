@@ -34,7 +34,7 @@ namespace UnitTestJuego
             Panel p = new Panel();
             var posicionFinal = p.Move(player, dadoValue);
 
-            Assert.Equal(98, posicionFinal);
+            Assert.Equal(99, posicionFinal);
         }
 
         [Fact]
