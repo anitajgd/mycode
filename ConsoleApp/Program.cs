@@ -51,7 +51,7 @@ do
     }
     else
     {
-        Console.Write(player1.Name + " Pulsa enter para tirar");
+        Console.Write(player2.Name + " Pulsa enter para tirar");
         Console.WriteLine(" ");
         Console.ReadLine();
 
